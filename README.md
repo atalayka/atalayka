@@ -1,2 +1,2 @@
 
-![Codewars](https://github.r2v.ch/codewars?user=atalayk)
+(https://github-readme-codewars-stats.herokuapp.com/api/?username=atalayk&card&colormode=dark_mode)
