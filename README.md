@@ -1,6 +1,5 @@
  
 <p align="center"> <img width="60%" src=https://github-readme-activity-graph.vercel.app/graph?username=atalayka /></p>
-<p align="center"> <img width="60%" src=https://github.com/atalayka/github-readme-activity-graph/></p>
 
 <p align="center"> <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs?username=atalayka&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="atalayka" />  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=atalayka&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="atalayka" /> <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=atalayka&theme=highcontrast&hide_border=true" alt="atalayka" /> </p>
  
